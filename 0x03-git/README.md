@@ -9,3 +9,4 @@
    * git add test
    * git commit -m "Initial commit"
    * git push origin master
+3. Collaborate with co-workers and keep up to date.
